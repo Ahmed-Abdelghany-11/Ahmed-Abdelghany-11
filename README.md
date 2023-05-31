@@ -1,4 +1,4 @@
-<h2> Hi, I'm Ahmed <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center"> Hi, I'm Ahmed <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <div align="center" width="50">
 
@@ -8,7 +8,7 @@
 </div>
 
 
-<div >You have finally discovered my Github profile.❤️ 
+<div align="center">You have finally discovered my Github profile.❤️ 
   </div>
   <br>
 
