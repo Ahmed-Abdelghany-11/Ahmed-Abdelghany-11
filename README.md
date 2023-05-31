@@ -8,7 +8,7 @@
 </div>
 
 
-<div align="center">You have finally discovered my Github profile.❤️ 
+<div >You have finally discovered my Github profile.❤️ 
   </div>
   <br>
 
