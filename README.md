@@ -4,11 +4,13 @@
 
 <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 <br>
-  <br align="center">
+  <br >
 </div>
 
 
-You have finally discovered my Github profile.❤️ <br>
+<div align="center">You have finally discovered my Github profile.❤️ 
+  </div>
+  <br>
 
 
 <div align="center">
